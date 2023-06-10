@@ -7,9 +7,6 @@
       <IconStyle>
         <color>ff646000</color>
         <scale>1</scale>
-        <Icon>
-          <href>https://github.com/bedhsk/document/blob/main/684908.png</href>
-        </Icon>
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
       </IconStyle>
       <LabelStyle>
