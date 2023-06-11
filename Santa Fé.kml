@@ -4,7 +4,7 @@
     <name>Santa Fé</name>
     <Style id="icon-1899-DB4436-nodesc-normal">
       <IconStyle>
-        <color>ff3644db</color>
+        <color>ff0000ff</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -20,7 +20,7 @@
     </Style>
     <Style id="icon-1899-DB4436-nodesc-highlight">
       <IconStyle>
-        <color>ff3644db</color>
+        <color>ff0000ff</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
