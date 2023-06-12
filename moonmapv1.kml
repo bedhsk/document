@@ -23,16 +23,10 @@
         <width>4</width>
       </LineStyle>
     </Style>
-    <Style id="pinkLine">
-      <LineStyle>
-        <color>ffff33ff</color>
-        <width>5</width>
-      </LineStyle>
-    </Style>
     <Style id="custom_blue">
       <LineStyle>
         <color>FF5D4C08</color>
-        <width>6</width>
+        <width>5</width>
       </LineStyle>
     </Style>
 
